@@ -11,7 +11,7 @@ data "aws_ami" "amzlinux2" {
         values = ["ebs"]
     }
     filter {
-        name = "visualization-type"
+        name = "virtualization-type"
         values = ["hvm"]
     }
     filter {
