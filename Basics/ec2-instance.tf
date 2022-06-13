@@ -14,4 +14,9 @@ provider "aws" {
 resource "aws_instance" "ec2demo" {
     ami = "ami-0022f774911c1d690"
     instance_type = "t2.micro"
+    /*
+    This is a
+    multiline
+    comment
+    */
 }
