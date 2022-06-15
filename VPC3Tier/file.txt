@@ -1,0 +1,7 @@
+Build manually using AWS Mgmt Console
+Build same using Terraform
+Terraform Modules
+Terraform Local Values
+Terraform Variables -  terraform.tfvars
+Terraform Variables - vpc.auto.tfvars
+Terraform Version Constraints
